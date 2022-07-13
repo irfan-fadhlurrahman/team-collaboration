@@ -55,6 +55,8 @@
     git pull origin main
     
     # notes: if you commit to 'personal_branch` branch, no need to pull
+    # but if there is changes in your online repository i.e. delete or add a file
+    # in your own branches through browser, you need to 'pull' first before 'push'
     git push origin <branch_name>
     
     # somewhere you need to enter your github username and personal token access
@@ -65,7 +67,7 @@
 **Dataset**: NYC Yellow Taxi Trip Data at January 2021.
 
 1. Bahas cara nambahin kolom duration
-2. Bahas data dictionary
+2. Bahas data dictionary: https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 3. Problem statement? Predict durasi atau fare? Masalah macet di NYC: traffic congestion problems
 4. Apakah data sudah lengkap? data yang digunakan apa saja?
 5. Referensi EDA: 
