@@ -1,10 +1,10 @@
 ## Team members
 Our team consists of four people. The goal of this collaboration to practice working in group and improve our communication and technical skills.
 
-1. Muhammad Irfan Fadhlurrahman | LinkedIn
-2. Ramado | LinkedIn | Github | ...
-3. Bima | LinkedIn | Github | ...
-4. Deni  | LinkedIn | Github | ...
+1. Muhammad Irfan Fadhlurrahman (LinkedIn | Github)
+3. Ramado (LinkedIn | Github)
+4. Bima (LinkedIn | Github)
+5. Deni (LinkedIn | Github)
 
 ## Discussion Material
 
